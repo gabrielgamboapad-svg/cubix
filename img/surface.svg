@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 160">
+  <rect width="800" height="160" fill="#fff"/>
+  <path d="M5 5h18M5 5v30M5 35h18M280 5h-18M280 5v30M280 35h-18" stroke="#2b9be0" stroke-width="3" fill="none"/>
+  <text x="22" y="30" font-family="Segoe UI, Arial" font-size="24" fill="#555">Surface <tspan font-weight="bold">Pro 4</tspan></text>
+  <polygon points="330,5 580,5 560,120 345,120" fill="#333"/>
+  <polygon points="338,12 572,12 553,112 350,112" fill="#1e6fb8"/>
+  <rect x="385" y="40" width="20" height="16" fill="#3ea0e8"/>
+  <rect x="410" y="40" width="20" height="16" fill="#2fb34b"/>
+  <rect x="385" y="60" width="20" height="16" fill="#e64a3c"/>
+  <rect x="410" y="60" width="20" height="16" fill="#f2b62e"/>
+  <polygon points="345,120 560,120 790,110 800,118 570,135 330,128" fill="#999"/>
+  <rect x="400" y="140" width="180" height="5" rx="2" fill="#888" transform="rotate(4 490 142)"/>
+</svg>
